@@ -1,0 +1,23 @@
+.titulos{
+    color: rgb(143, 101, 101);
+    text-align: center;
+    background-color: wheat;
+    border: 3px;
+    border-radius: 6%;
+    border-style: dotted;
+    text-decoration: underline;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#xp{
+    color: red;
+    text-decoration:underline;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
